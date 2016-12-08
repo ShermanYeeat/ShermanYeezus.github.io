@@ -26,17 +26,25 @@ h1 {
     text-align: center; 
     color: white;
     text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;  
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000;  
 }
 
    
 p {
-    font-size: 1.5em;
+    font-size: 1.5em; 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
-    color: #D3D3D3;
+     color:#ffffff; 
+    text-align: center; 
+    color: white;
+    text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000; 
     
 }
 footer {
