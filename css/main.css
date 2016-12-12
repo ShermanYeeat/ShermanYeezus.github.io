@@ -36,11 +36,17 @@ h1 {
     padding-right: 80px;  
     display: block;  
 } 
-h2{ font-size: 2em;
+h2{ font-size:2em;
     font-family:'Arial', 'Sans-Serif';   
-    color:#ffffff; 
+    color:#00FF00; 
     text-align: left; 
-    color: white; 
+    color: white;
+    text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000; 
+     
 }
 p {
     font-size: 1.5em; 
