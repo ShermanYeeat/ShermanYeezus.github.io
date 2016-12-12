@@ -35,9 +35,13 @@ h1 {
     background: url("http://www.mobafire.com/images/champion/icon/teemo.png") no-repeat center center; 
     padding-right: 80px;  
     display: block;  
+} 
+h2{ font-size: 2em;
+    font-family:'Arial', 'Sans-Serif';   
+    color:#ffffff; 
+    text-align: left; 
+    color: white; 
 }
-
-   
 p {
     font-size: 1.5em; 
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
