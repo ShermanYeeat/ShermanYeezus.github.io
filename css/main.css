@@ -32,8 +32,7 @@ h1 {
     3px -3px 0 #000,
     -3px 3px 0 #000,
     3px 3px 0 #000; 
-    background-image: url("http://www.mobafire.com/images/champion/icon/teemo.png"); 
-    background-repeat: no-repeat; 
+    background: url("http://www.mobafire.com/images/champion/icon/teemo.png") no-repeat center center; 
     padding-right: 30px;  
     display: block;  
 }
