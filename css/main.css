@@ -22,7 +22,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 { 
-    font-size: 4em;
+    font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';   
     color:#ffffff; 
     text-align: left; 
@@ -33,7 +33,7 @@ h1 {
     -3px 3px 0 #000,
     3px 3px 0 #000; 
     background: url("http://www.mobafire.com/images/champion/icon/teemo.png") no-repeat center center; 
-    padding-right: 30px;  
+    padding-right: 80px;  
     display: block;  
 }
 
