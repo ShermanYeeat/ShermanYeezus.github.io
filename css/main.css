@@ -75,3 +75,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.zzrot{
+    height: 125px;
+    width: 125px;
+}
