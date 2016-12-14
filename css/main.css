@@ -95,14 +95,15 @@ ul2{
 img.expand 
 { width: 10em; 
 }
- table, th, td {
+ table, th {
     border: 1px solid #006400; 
-     padding: 20px;
-} 
-table {   
+     padding: 20px; 
     font-size:2.3em;
+} 
+td {   
+    font-size:1em;
     font-family:'Arial', 'Sans-Serif';   
-    color:#006400	; 
+    color:#008000	; 
     text-align: center; 
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
