@@ -96,3 +96,6 @@ ul2{
     width=175% ;
     height=175%;
         }
+ table, th, td {
+    border: 1px solid white;
+}
