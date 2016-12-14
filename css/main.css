@@ -95,12 +95,13 @@ ul2{
 img.expand 
 { width: 10em; 
 }
- table, th {
+th {
     border: 1px solid #006400; 
      padding: 20px; 
     font-size:2.3em;
 } 
-td {   
+td {    
+     padding: 20px; 
     font-size:1em;
     font-family:'Arial', 'Sans-Serif';   
     color:#008000	; 
