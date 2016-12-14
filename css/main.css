@@ -92,10 +92,9 @@ ul {
 ul2{  
      list-style: none;
 } 
-.greaves { 
-    width=175% ;
-    height=175%;
-        }
+img.expand 
+{ width: 10em; 
+}
  table, th, td {
     border: 1px solid #006400; 
      padding: 20px;
