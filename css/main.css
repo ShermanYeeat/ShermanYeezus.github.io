@@ -3,24 +3,29 @@ body {
     background-position: center center;
     margin: 60px auto;
     width: 70%;
-}
+} 
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-}
+} 
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
+} 
+
 a {
     text-decoration: none;
     color:#D3D3D3;
-}
+} 
+
 a:hover {
     text-decoration: underline;
-}
+} 
+
 h1 { 
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';   
@@ -35,19 +40,22 @@ h1 {
     background: url("http://www.mobafire.com/images/champion/icon/teemo.png") no-repeat center right; 
     padding-right: 80px;  
     display: block;  
-} 
+}  
+
 h2{ font-size:2.5em;
     font-family:'Arial', 'Sans-Serif';   
     color:#006400	; 
     text-align: center; 
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-} 
+}  
+
 h3{font-size:2.5em;
     font-family:'Arial', 'Sans-Serif'; 
     color:	#008000; 
     text-align: left; 
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
-}
+} 
+
 p {
     font-size: 1.3em; 
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -61,7 +69,8 @@ p {
     -1px 1px 0 #000,
     1px 1px 0 #000; 
     
-}
+} 
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -88,19 +97,23 @@ ul {
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
-} 
+}  
+
 ul2{  
      list-style: none;
+}  
+
+img.expand {  
+    width: 10em; 
 } 
-img.expand 
-{ width: 10em; 
-}
+
 th {
     border: 1px solid;  
     color:#006400;
      padding: 20px; 
     font-size:2.3em;
-} 
+}  
+
 td {    
      padding: 20px; 
     font-size:1em;
