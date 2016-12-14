@@ -96,7 +96,8 @@ img.expand
 { width: 10em; 
 }
 th {
-    border: 1px solid #006400; 
+    border: 1px solid;  
+    color:#006400;
      padding: 20px; 
     font-size:2.3em;
 } 
