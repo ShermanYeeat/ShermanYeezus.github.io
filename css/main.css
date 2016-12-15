@@ -1,7 +1,7 @@
 body {  
     background: url("http://i.imgur.com/pBn7C1r.jpg") no-repeat center; 
-    background-attachment:fixed;
-    background-size:cover;
+    background-attachment: fixed;
+    background-size: cover;
     margin: 60px auto;
     width: 70%;
 } 
