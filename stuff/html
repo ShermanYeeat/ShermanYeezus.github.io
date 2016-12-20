@@ -1,0 +1,18 @@
+ 
+ /// this is html ///
+ <ul>
+			
+        		<li class="links"><a href="http://play.na.leagueoflegends.com/en_US" target=_blank>Home</a></li>
+	        	<li class="links"><a href="http://www.lolking.net/summoner/na/67260385" target=_blank>About</a></li>
+        		<li class="links"><a href="http://www.leagueofgraphs.com/rankings/summoners/sion" target=_blank>Fellow Followers</a></li>
+        		<li class="links"><a href="http://www.mobafire.com/league-of-legends/sion-guide" target=_blank>Guides</a></li>
+			      <li id="suit"><a href="Other Page.html">Suit Up</a></li>
+			
+  </ul> 
+        
+        
+    /// this is css ///    
+    nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+    padding: 10px 20px;
